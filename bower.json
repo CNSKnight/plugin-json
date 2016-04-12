@@ -1,0 +1,25 @@
+{
+  "name": "systemjs-plugin-text",
+  "homepage": "https://github.com/CNSKnight/systemjs-plugin-json",
+  "authors": [
+    "Codename: Steeve Knight <steeve@dharmiweb.net> ()"
+  ],
+  "main": "json",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "systemjs",
+    "plugin",
+    "json"
+    ]
+}
